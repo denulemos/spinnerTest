@@ -1,0 +1,2 @@
+rootProject.name='spinnerApp'
+include ':app'

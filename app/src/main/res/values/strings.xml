@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator with Spinner</string>
+    <string name="value1">First Value</string>
+    <string name="value2">Second Value</string>
+    <string name="button">Calculate</string>
+    <string name="resultTxt">The result will be shown here</string>
+</resources>
