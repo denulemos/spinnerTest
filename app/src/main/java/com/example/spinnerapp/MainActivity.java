@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         v2 = (EditText) findViewById(R.id.value2);
         String[] opciones = {"Sum" , "Subtract" , "Multiply" , "Divide"};
 
-        ArrayAdapter<String> adapter= new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item , opciones);
+        ArrayAdapter<String> adapter= new ArrayAdapter<String>(this, R.layout.spinner_item_1 , opciones);
         sp.setAdapter(adapter);
     }
 

@@ -35,8 +35,8 @@
 
     <Spinner
         android:id="@+id/spinner"
-        android:layout_width="220dp"
-        android:layout_height="31dp"
+        android:layout_width="211dp"
+        android:layout_height="80dp"
         android:layout_marginTop="52dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.083"
